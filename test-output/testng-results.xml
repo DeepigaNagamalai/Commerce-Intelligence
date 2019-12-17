@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14264" started-at="2019-12-17T13:42:35 IST" finished-at="2019-12-17T13:42:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14264" started-at="2019-12-17T13:42:35 IST" finished-at="2019-12-17T13:42:49 IST">
+      <class name="Practice.SAmples.NewTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Practice.SAmples.NewTest@720653c2]" name="setup" is-config="true" duration-ms="13337" started-at="2019-12-17T13:42:35 IST" finished-at="2019-12-17T13:42:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Practice.SAmples.NewTest@720653c2]" name="f" duration-ms="234" started-at="2019-12-17T13:42:48 IST" description="Test method" finished-at="2019-12-17T13:42:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Practice.SAmples.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
